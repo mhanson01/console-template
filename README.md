@@ -7,7 +7,7 @@ This console application template will get you the basics to be up and running w
 Clone this repository
 
 ```
-git clone https://github.com/mhanson01/console-template
+git clone https://github.com/mhanson01/console-template.git
 ```
 
 Install the dependencies via composer
