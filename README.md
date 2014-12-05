@@ -22,7 +22,7 @@ Run the tests
 vendor/bin/codecept run
 ```
 
-Test it out for yourseld
+Run the app and the test command for yourself
 
 ```
 php app test
