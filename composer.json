@@ -1,0 +1,21 @@
+{
+    "name": "mhanson01/console-template",
+    "description": "Template for a Symfony Console Application",
+    "keywords": ["symfony", "console", "template", "command"],
+    "require": {
+        "symfony/console": "2.*"
+    },
+    "require-dev": {
+        "codeception/codeception": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    },
+    "license": "MIT",
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "stable"
+}
