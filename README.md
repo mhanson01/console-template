@@ -1,6 +1,6 @@
 ## Symfony Console Application Template
 
-This console application template will get you the basics to be up and running with the Symfony Console package in no time.
+This console application template will get you the basics to be up and running with the Symfony Console package in no time.  This template comes with a default app named "app".
 
 ### Getting Started
 
